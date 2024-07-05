@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568704340221",
+    "project_id": "fireflutter-54368",
+    "storage_bucket": "fireflutter-54368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568704340221:android:afbcf002e3d7951f7cae94",
+        "android_client_info": {
+          "package_name": "mx.edu.utch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1igNVfbC83CKxV6cJ8HvogW_TpMuJl5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
